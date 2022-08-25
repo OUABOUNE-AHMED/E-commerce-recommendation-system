@@ -24,11 +24,8 @@ $ jupyter notebook
 
 ## Methods 
 
-- Recommendation system part I: Product popularity based system targeted at new customers<br />
-- Recommendation system part II: Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought items similar items<br />
-- Recommendation system part III: When a business is setting up its e-commerce website for the first time without any product rating<br />
+Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought items similar items<br />
 
-![cold start reco](https://user-images.githubusercontent.com/58731785/100766577-c2234580-3433-11eb-8d19-0cedd6f14b49.png)
 
 ## Example  
 ![result](https://github.com/sherincheah/amz-ecom-recommender/blob/main/img/example_output_161220.png)
@@ -39,11 +36,7 @@ $ jupyter notebook
 - Explore into online supermarket recommendation system
   e.g. customer browsing for pastas, there will be 2 categories of recommended list - 'similar products' and 'other related products'
 
-## Authors
-- [Sherin](https://github.com/sherincheah)
-- [Denzel](https://github.com/bub28)
-- [Jesslyn](https://github.com/jesslynhillary)
-- [Xiangfeng](https://github.com/xiangfengg)
+
 
 ## Resources
 - https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6
